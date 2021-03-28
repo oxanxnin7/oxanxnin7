@@ -2,9 +2,9 @@
 Hello 👋, I am a developer 💻, I try to develop in a wide language.
 
 # Demo
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxanxnin7)](https://github.com/oxanxnin7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjcrenrc)](https://github.com/wjcrenrc/github-readme-stats)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=oxanxnin7&show_icons=true&hide_border=true&count_private=true)](https://github.com/oxanxnin7)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=wjcrenrc&show_icons=true&hide_border=true&count_private=true)](https://github.com/wjcrenrc)
 
 # Reach
 [![Discord Badge](https://img.shields.io/badge/-Oxan＃4896-7289da?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com)](https://discord.com)
